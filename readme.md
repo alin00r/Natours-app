@@ -1,7 +1,7 @@
 # Natours App
-![image](https://github.com/alin00r/Natours-app/assets/74410154/ced15312-6a9c-4b85-b500-792e0dd2a7dc)
-
-
+  <p align="center">
+      <img src="https://github.com/alin00r/Natours-app/assets/74410154/ced15312-6a9c-4b85-b500-792e0dd2a7dc" alt="Natours" height="120">
+  </p>
 ## Introduction 🌟
 
 Welcome to Natours! This full stack web application is designed specially for persons who love travelling and going on tour vacations.
