@@ -1,4 +1,6 @@
 # Natours App
+![image](https://github.com/alin00r/Natours-app/assets/74410154/ced15312-6a9c-4b85-b500-792e0dd2a7dc)
+
 
 ## Introduction 🌟
 
