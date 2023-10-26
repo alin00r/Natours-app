@@ -1425,7 +1425,8 @@ body {
 
 .go-to-login,
 .forgot-password-link,
-.login-link {
+.login-link,
+.form--reset {
   color: #55c57a;
   /* text-decoration: none !important; */
   -webkit-transition: all 0.2s;
@@ -1828,4 +1829,3 @@ body {
   }
 }
 
-/* -webkit-clip-path: polygon( 0 var(--section-rotate), 100% 0, 100% calc(100% - var(--section-rotate)), 0 100% ); */
