@@ -1,6 +1,10 @@
-# Natours App
-<p align="center">
-      <img src="https://github.com/alin00r/Natours-app/assets/74410154/ced15312-6a9c-4b85-b500-792e0dd2a7dc" alt="Natours" height="120"></p>
+<h1 align="center">
+  <br>
+  <a href="https://natours-api-z82r.onrender.com/"><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
+  <br>
+  Natours App
+  <br>
+</h1>
   
 ## Introduction 🌟
 
