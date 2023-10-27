@@ -119,7 +119,7 @@ Natours API use four (04) operators:
 
 During API development, I use `Postman` for handling/testing all endpoints.
 
-- Postman collection/documentation is available on this link [click here]()
+- Postman collection/documentation is available on this link [click here](https://documenter.getpostman.com/view/28708948/2s9YRGw8PW)
 - Base URL endpoints: `http://127.0.0.1:3000/api/V1/` or `http://localhost:3000/api/v1/`
 
 ## Project Demo 🎬
