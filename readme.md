@@ -6,8 +6,8 @@
 
 Welcome to Natours! This full stack web application is designed specially for persons who love travelling and going on tour vacations.
 
+> **PostMan docs [click here]([https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/](https://documenter.getpostman.com/view/28708948/2s9YRGw8PW))
 > **This was developed under the guidance of _Jonas Schmedtmann's_ [Node.js course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) that consists of**
-
 - 📃How to create an API
 - 🎮MVC Architecture
 - 👩‍💻User Authentication
